@@ -23,7 +23,7 @@ To write a python program to implement multivariate linear regression and predic
 ## Program:
 ```
 # Program to implement multivariate linear regression and predict the output
-# Developed by : sriharan j v
+# Developed by : SRIHARAN J V
 # Register No : 212223100054
 
 import pandas as pd
